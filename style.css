@@ -3,6 +3,14 @@ body {
   font-family: Verdana, Tahoma, Helvetica, Arial, sans-serif;
   color: #fff;
 }
+a:link {
+  color: #fff;
+  text-decoration: none;
+}
 a:hover {
   text-decoration: underline;
+}
+a:visited {
+  color: #fff;
+  text-decoration: none;
 }
