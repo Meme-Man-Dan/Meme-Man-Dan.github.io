@@ -3,3 +3,6 @@ body {
   font-family: Verdana, Tahoma, Helvetica, Arial, sans-serif;
   color: #fff;
 }
+a:hover {
+  text-decoration: underline;
+}
